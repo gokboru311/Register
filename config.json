@@ -1,0 +1,3 @@
+{
+"TOKEN": "token gizlidir .env dosyasına koyunuz tokeni eğer glitch üzerinden açmadıysanız index.js dosyasındaki client.login kısmını ve events klasöründe ready kısmında .settoken kısmını TOKEN olarak değiştirin"
+}
