@@ -47,7 +47,7 @@ readdirSync('./events').forEach(e => {
 });
 
 
-client.login(process.env.token)
+client.login(TOKEN)
 
 // Bir Hata Oluştu
 process.on("unhandledRejection", (reason, p) => {
